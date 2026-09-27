@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+<rect width="800" height="450" rx="32" fill="#111a2b"/>
+<circle cx="170" cy="225" r="105" fill="#2457e6"/>
+<path d="M135 285 C125 235 135 170 170 160 C205 170 215 235 205 285" fill="none" stroke="white" stroke-width="24" stroke-linecap="round"/>
+<path d="M170 160 L170 105 M150 165 L120 120 M190 165 L220 120 M205 180 L250 150" fill="none" stroke="white" stroke-width="18" stroke-linecap="round"/>
+<rect x="330" y="100" width="360" height="52" rx="18" fill="#55d9ca"/>
+<rect x="330" y="180" width="280" height="22" rx="11" fill="#667590"/>
+<rect x="330" y="225" width="310" height="22" rx="11" fill="#667590"/>
+<rect x="330" y="285" width="220" height="55" rx="18" fill="#7c9cff"/>
+<text x="355" y="322" fill="#101a35" font-family="Arial" font-size="24" font-weight="700">LSTM + LANDMARKS</text>
+<text x="330" y="82" fill="white" font-family="Arial" font-size="30" font-weight="700">ISL Learning</text>
+</svg>

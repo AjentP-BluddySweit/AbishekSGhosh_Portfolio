@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+<rect width="800" height="450" rx="32" fill="#172033"/>
+<rect x="55" y="55" width="690" height="340" rx="24" fill="#202c43"/>
+<rect x="95" y="105" width="260" height="28" rx="14" fill="#7c9cff"/>
+<rect x="95" y="165" width="530" height="18" rx="9" fill="#56657e"/>
+<rect x="95" y="205" width="420" height="18" rx="9" fill="#56657e"/>
+<rect x="95" y="260" width="145" height="70" rx="15" fill="#55d9ca"/>
+<rect x="260" y="260" width="145" height="70" rx="15" fill="#7c9cff"/>
+<rect x="425" y="260" width="145" height="70" rx="15" fill="#d7a8ff"/>
+<text x="95" y="90" fill="white" font-family="Arial" font-size="30" font-weight="700">GSTLite</text>
+<text x="110" y="303" fill="#102018" font-family="Arial" font-size="20" font-weight="700">AUDIT</text>
+<text x="275" y="303" fill="#101a35" font-family="Arial" font-size="20" font-weight="700">RISK</text>
+<text x="438" y="303" fill="#241330" font-family="Arial" font-size="20" font-weight="700">READY</text>
+</svg>
